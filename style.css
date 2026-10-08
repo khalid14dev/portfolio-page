@@ -9,3 +9,13 @@ header {
   text-align: center;
   background-color: #f5f5f5;
 }
+nav {
+  margin-bottom: 30px;
+}
+
+nav a {
+  margin: 0 12px;
+  text-decoration: none;
+  color: #222;
+  font-weight: bold;
+}
