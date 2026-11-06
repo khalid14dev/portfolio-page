@@ -54,3 +54,9 @@ main {
 section {
   margin-bottom: 60px;
 }
+section h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #222;
+  padding-bottom: 8px;
+}
