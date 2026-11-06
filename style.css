@@ -45,3 +45,12 @@ header img {
   text-decoration: none;
   border-radius: 6px;
 }
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+section {
+  margin-bottom: 60px;
+}
