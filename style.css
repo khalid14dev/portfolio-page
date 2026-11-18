@@ -66,3 +66,9 @@ section h2 {
   margin-bottom: 20px;
   border-radius: 8px;
 }
+.project-card {
+  background-color: #f5f5f5;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
